@@ -1,1 +1,0 @@
-# SenyasMobileApp-Installer.apk
